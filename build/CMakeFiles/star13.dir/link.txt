@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-10  -g   CMakeFiles/star13.dir/star13.cpp.o  -o star13 

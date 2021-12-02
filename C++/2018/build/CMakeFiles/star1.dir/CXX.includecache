@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/spencerwf/adventofcode/C++/2018/star1.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+iterator
+-
+algorithm
+-
+

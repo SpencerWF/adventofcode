@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/star18.dir/star18.cpp.o  -o star18 

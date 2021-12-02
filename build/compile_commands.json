@@ -1,0 +1,112 @@
+[
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star23.dir/star23.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star23.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star23.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star22.dir/star22.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star22.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star22.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star24.dir/star24.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star24.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star24.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star18.dir/star18.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star18.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star18.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star16.dir/star16.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star16.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star16.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star19.dir/star19.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star19.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star19.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star15.dir/star15.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star15.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star15.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star1.dir/star1.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star1.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star1.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star2.dir/star2.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star2.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star2.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star6.dir/star6.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star6.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star6.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star3.dir/star3.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star3.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star3.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star12.dir/star12.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star12.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star12.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star7.dir/star7.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star7.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star7.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star21.dir/star21.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star21.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star21.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star20.dir/star20.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star20.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star20.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star11.dir/star11.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star11.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star11.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star4.dir/star4.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star4.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star4.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star8.dir/star8.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star8.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star8.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star9.dir/star9.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star9.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star9.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star10.dir/star10.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star10.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star10.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star13.dir/star13.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star13.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star13.cpp"
+},
+{
+  "directory": "/home/spencerwf/adventofcode/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-10    -g   -std=gnu++17 -o CMakeFiles/star14.dir/star14.cpp.o -c /home/spencerwf/adventofcode/C++/2018/star14.cpp",
+  "file": "/home/spencerwf/adventofcode/C++/2018/star14.cpp"
+}
+]

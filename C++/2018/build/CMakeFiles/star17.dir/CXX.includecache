@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/spencerwf/adventofcode/C++/2018/star17.cpp
+iostream
+-
+string
+-
+set
+-
+fstream
+-
+vector
+-
+iterator
+-
+algorithm
+-
+array
+-
+map
+-
+

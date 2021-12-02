@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/star5.dir/star5.cpp.o  -o star5 
