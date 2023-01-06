@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/star24.dir/star24.cpp.o  -o star24 

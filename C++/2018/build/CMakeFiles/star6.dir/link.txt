@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/star6.dir/star6.cpp.o  -o star6 

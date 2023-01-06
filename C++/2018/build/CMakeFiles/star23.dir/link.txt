@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/star23.dir/star23.cpp.o  -o star23 

@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/star2.dir/star2.cpp.o  -o star2 

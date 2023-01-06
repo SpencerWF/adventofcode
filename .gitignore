@@ -1,1 +1,8 @@
 pico/pico-examples
+
+# C++ IGNORES #
+/C++/*/build/
+
+# RUST IGNORES #
+/rust/*/*/target/
+/rust/*/*/Cargo.lock
