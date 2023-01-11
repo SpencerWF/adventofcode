@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.template": "dockerfile",
-        "*.script": "lua",
-        "ostream": "cpp"
-    },
-    "cmake.sourceDirectory": "${workspaceFolder}/C++/2018"
-}

@@ -6,3 +6,11 @@ pico/pico-examples
 # RUST IGNORES #
 /rust/*/*/target/
 /rust/*/*/Cargo.lock
+/pico/write_to_pico/target/
+/pico/write_to_pico/Cargo.lock
+
+# PICO IGNORES #
+/pico/2015/build/
+
+# VSCODE IGNORES #
+**/.vscode/
